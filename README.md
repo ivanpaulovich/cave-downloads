@@ -19,7 +19,7 @@ locally to preview; no dependencies or build step are required.
 3. Update the version, date, and versioned download URLs in `index.html`, then
    push to `main` so GitHub Pages publishes the page.
 
-The v0.1.5 Android build requires Android 10+, ARM64, and Vulkan dynamic
-rendering. The Windows and Linux packages target x86_64 desktop systems.
+The v0.1.6 Android build requires Android 10+, ARM64, and Vulkan dynamic
+rendering. The v0.1.5 Windows and Linux packages target x86_64 desktop systems.
 macOS is not included in this release. All editions are early builds and the
 Android package still needs real-device testing.
